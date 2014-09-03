@@ -6,14 +6,14 @@
 
 <struts>
 
-	 <constant name="struts.convention.default.parent.package" value="com.demo.action" />
+	 <!-- <constant name="struts.convention.default.parent.package" value="com.demo.action" /> -->
 	
 	<!-- <package name="com.demo.action" namespace="/" extends="struts-default"> <result-types> 
 		<result-type name="tiles" class="org.apache.struts2.views.tiles.TilesResult"></result-type> 
 		</result-types> </package> -->
 
-	<package name="com.demo.action" namespace="/" extends="tiles-default">
+<!-- 	<package name="com.demo.action" namespace="/" extends="tiles-default">
 
 
-	</package>
+	</package> -->
 </struts>
